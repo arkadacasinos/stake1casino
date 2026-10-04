@@ -61,6 +61,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="s1c-html">
       <head>
+        <meta name="yandex-verification" content="7354241e7eb4af1a" />
         {/* Дополнительные пользовательские теги можно вставлять сюда */}
       </head>
       <body className="s1c-body">{children}</body>
